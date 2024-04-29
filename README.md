@@ -11,12 +11,15 @@ Essa API faz conexão com o Banco de dados MY SQL com o intuito de consultar, in
 Além disso, usa Migration para criar as tabelas no Banco de dados e para inserir dados, assim como atualiza-los.
 
 Swagger:
+
 ![API CAT](https://github.com/JenifferBitancort/APICatalogo/assets/137184265/1c6c4666-9427-4425-8291-b4996ce73382)
 
 Postman:
+
 ![POST](https://github.com/JenifferBitancort/APICatalogo/assets/137184265/9c59b2c3-4afc-44f1-9c12-e9036be15afa)
 
 My Sql:
+
 ![My SQL](https://github.com/JenifferBitancort/APICatalogo/assets/137184265/73964994-0a5b-417d-8da9-4d88ec33d143)
 
 
